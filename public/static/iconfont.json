@@ -1,0 +1,191 @@
+{
+  "id": "3553629",
+  "name": "网易云图标库",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1304897",
+      "name": "左箭头",
+      "font_class": "zuojiantou",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "145451",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "145472",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "145497",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "577313",
+      "name": "加号1",
+      "font_class": "jiahao1",
+      "unicode": "e727",
+      "unicode_decimal": 59175
+    },
+    {
+      "icon_id": "577319",
+      "name": "问号",
+      "font_class": "wenhao",
+      "unicode": "e72d",
+      "unicode_decimal": 59181
+    },
+    {
+      "icon_id": "577384",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "e763",
+      "unicode_decimal": 59235
+    },
+    {
+      "icon_id": "630095",
+      "name": "向左箭头",
+      "font_class": "xiangzuojiantou",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "688097",
+      "name": "上一首 上一个",
+      "font_class": "shangyishoushangyige",
+      "unicode": "e78a",
+      "unicode_decimal": 59274
+    },
+    {
+      "icon_id": "688128",
+      "name": "下一个 下一首",
+      "font_class": "xiayigexiayishou",
+      "unicode": "e7a5",
+      "unicode_decimal": 59301
+    },
+    {
+      "icon_id": "1190479",
+      "name": "vip",
+      "font_class": "vip",
+      "unicode": "e8da",
+      "unicode_decimal": 59610
+    },
+    {
+      "icon_id": "1367329",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "2076190",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e86e",
+      "unicode_decimal": 59502
+    },
+    {
+      "icon_id": "2380683",
+      "name": "循环",
+      "font_class": "xunhuan",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "2674474",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "2674483",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "5166737",
+      "name": "推荐",
+      "font_class": "tuijian",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "5618760",
+      "name": "歌单",
+      "font_class": "gedan",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "6447168",
+      "name": "多选",
+      "font_class": "duoxuan",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "7408046",
+      "name": "直播",
+      "font_class": "zhibo",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "7594064",
+      "name": "24gl-playlistMusic5",
+      "font_class": "24gl-playlistMusic5",
+      "unicode": "ea72",
+      "unicode_decimal": 60018
+    },
+    {
+      "icon_id": "9021524",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "11372639",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e8ab",
+      "unicode_decimal": 59563
+    },
+    {
+      "icon_id": "11746485",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "20016127",
+      "name": "排行榜",
+      "font_class": "paihangbang",
+      "unicode": "f202",
+      "unicode_decimal": 61954
+    },
+    {
+      "icon_id": "925314",
+      "name": "汉堡包",
+      "font_class": "hanbaobao",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
