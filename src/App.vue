@@ -18,6 +18,7 @@ export default {
 </script>
 
 <style lang="less">
+// 控制全局的样式
 *{
   margin: 0;
   padding: 0;
